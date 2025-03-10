@@ -165,7 +165,3 @@ Acesse:
   Consulte a [documentação do Django](https://docs.djangoproject.com/en/4.1/) e do [Django REST Framework](https://www.django-rest-framework.org/) para mais detalhes e melhores práticas.
 
 ---
-
-## Conclusão
-
-Com esses passos, seu ambiente de back-end estará configurado e o aplicativo rodará corretamente. Se encontrar problemas, verifique as mensagens de erro, confirme as configurações das variáveis de ambiente e a estrutura dos arquivos. Caso necessário, consulte a documentação das dependências utilizadas para solucionar qualquer dúvida.
